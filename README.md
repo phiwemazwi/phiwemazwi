@@ -6,10 +6,15 @@ Working in enterprise billing, digital delivery & notification systems.
 👨‍💻 About Me
 
 💻 Backend developer (Java + Spring Boot)
+
 🔧 Experienced with enterprise-scale MTN systems (eBilling, myContract / myCustomer, Digital Notifications, Storage Services, Rendering Services)
+
 📨 Hands-on with REST APIs, Kafka events, microservices, Oracle DB, Cassandra, Jenkins pipelines
+
 📚 Currently studying for Advanced Diploma in Information Resource Management, Java Professional Certification & AWS Cloud Practitioner
+
 🧠 Love building systems that process real data, real events, real customers
+
 📝 Obsessed with improving code structure, debugging logic & architecture understanding
 
 🛠 Tech Stack
